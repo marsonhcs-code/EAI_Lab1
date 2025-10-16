@@ -7,8 +7,9 @@
 - Visualization (loss, accuracy curves)
 - Save results (CSV, PNG)
 ### code files
-- Lab1-Task1.ipynb
+- Lab1-Task1.ipynb       # multi-config multi-core training
 - Lab1-Task1.py
+- N26141826_lab1-1.ipynb # single-config single-core training
 
 ## Task 2
 - CIFAR10 Dataset
